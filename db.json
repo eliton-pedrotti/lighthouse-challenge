@@ -1,32 +1,5 @@
 {
   "users": [
-    {
-      "user": {
-        "id": 1,
-        "name": "Eliton Marcelo Pedrotti",
-        "email": "pedrottieliton777@gmail.com",
-        "fone": "51995619729",
-        "password": "$2a$08$y261eHxSQX955jw2YEsdoOxQ5ZeM7xyzdPa535Hd6fJeg461lf5TW"
-      },
-      "id": 1
-    },
-    {
-      "user": {
-        "name": "Eliton Pedrotti",
-        "email": "pedrottieliton7777@gmail.com",
-        "fone": "51995619729",
-        "password": "$2a$08$N9DvkNP684O1HI4ivoTT9.VDuoTzDtm4l8LjxBD9ms9LFrNnK0NcS"
-      },
-      "id": 2
-    },
-    {
-      "user": {
-        "name": "Eliton Pedrotti",
-        "email": "pedrottieliton77777@gmail.com",
-        "fone": "51995619729",
-        "password": "$2a$08$/FlnbyttPtx4j/iTCy49t.FtVoag6nc9S2t4ZkjSg9HqGEuW44C5C"
-      },
-      "id": 3
-    }
+   
   ]
 }
