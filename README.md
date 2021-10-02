@@ -16,16 +16,13 @@ Desafio Lighthouse Backend Nodejs
 ```bash
 $ sudo npm install -g json-server
 $ npm install
-
-$ npm start
-$ json-server --watch db.json
-
 ```
 
 ## Run [Dev]
 
 ```
 $ npm start
+$ json-server --watch db.json
 ```
 
 ## Colaboradores
